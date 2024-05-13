@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+}
+.nav{
+    margin-left: 750px;
+    font-size: 25px;
+    position: fixed;
+}
+.img{
+    display: flex;
+    height: 90px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: purple;
+}
+.m1 img{
+    height: 700px;
+    width: 100%;
+}
+.m2{
+    padding-left: 200px;
+}
+.m2 img{
+    position: absolute;
+    padding-top: 100px;
+}
+.m2 button{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+.m2 h1{
+    position: absolute;
+    padding-top: 260px;
+    color: white;
+}
+.n{
+    padding-left: 500px;
+}
+.n img{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.n button{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 100px;
+    border-radius: 50px;
+}
+.n h1{
+    position: absolute;
+    padding-top: 260px;
+    color: white;
+}
+.o{
+    padding-left: 900px;
+}
+.o img{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.o button{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 110px;
+    border-radius: 50px;
+}
+.o h1{
+    position: absolute;
+    padding-top: 260px;
+    color: white;
+}
+.p img{
+    position: absolute;
+    margin-left: -750px;
+    padding-top: 400px;
+}
+.p h1{
+    position: absolute;
+    margin-left: -700px;
+    padding-top: 570px;
+}
+.p button{
+    position: absolute;
+    margin-left: -650px;
+    margin-top: 630px;
+}
+.q img{
+    position: absolute;
+    margin-left: -370px;
+    padding-top: 430px;
+}
+.q h1{
+    position: absolute;
+    margin-left: -350px;
+    padding-top: 570px;
+}
+.q button{
+    position: absolute;
+    margin-left: -300px;
+    margin-top: 630px;
+}
+.r img{
+    position: absolute;
+    margin-left: 30px;
+    padding-top: 460px;
+}
+.r h1{
+    position: absolute;
+    margin-left: 50px;
+    padding-top: 570px;
+}
+.r button{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 630px;
+}
+.c3 img{
+    width: 100px;
+    position: fixed;
+    bottom: 50px;
+    right: 0px;
+}
+
+.foot{
+    background-color: blueviolet;
+    color: white;
+    height: 50px;
+    text-align: center;
+}

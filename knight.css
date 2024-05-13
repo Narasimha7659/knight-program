@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+}
+.nav{
+    margin-left: 750px;
+    font-size: 25px;
+    position: fixed;
+}
+.img{
+    display: flex;
+    height: 90px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+}
+.burger img{
+    width: 100%;
+    height: 900px;
+}
+.burger h1{
+    position: absolute;
+    padding-top: 400px;
+    padding-left: 250px;
+    font-size: 85px;
+    color: white;
+}
+.burger button{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 600px;
+    font-size: 30px;
+    width: 200px;
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    height: 60px;
+}
+.burger p{
+    position: absolute;
+    color: red;
+    padding-top: 570px;
+    padding-left: 680px;
+    font-size: 30px;
+}
+.gp{
+    position: absolute;
+    padding-top: 650px;
+    padding-left: 750px;
+}
+.as{
+    position: absolute;
+    padding-top: 650px;
+    padding-left: 550px;
+}
+.head h1{
+    text-align: center;
+    font-size: 70px;
+}
+.symbol{
+    display: flex;
+    justify-content: space-evenly;
+}
+.symbol img{
+    width: 170px;
+}
+.matter{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+}
+.single img{
+    width: 1519px;
+}
+.single p{
+    position: absolute;
+    padding-top: 500px;
+    padding-left: 150px;
+    font-size: 110px;
+    color: white;
+    font-style: italic;
+}
+.table img{
+    width: 1519px;
+    height: 1000px;
+}
+.table p{
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 270px;
+    color: white;
+    font-size: 90px;
+    font-style: italic;
+}
+.table button{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 600px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 100px;
+    background: none;
+}
+.mnr p{
+    text-align: center;
+    font-size: 70px;
+    font-style: bold;
+}
+.a1{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    font-size: 20px;
+}
+.a3{
+    padding-left: 50px;
+}
+.a4{
+    padding-left: 50px;
+    font-size: 22px;
+}
+.b1{
+    display: flex;
+    justify-content: space-between;
+}
+.b2{
+    padding-left: 50px;
+}
+.b2 p{
+    font-size: 20px;
+}
+.b3{
+    padding-left: 100px;
+}
+.b3 li{
+    font-size: 20px;
+}
+.b4{
+    padding-right: 300px;
+}
+.b4 a{
+    padding: 20px;
+}
+.down{
+    display: flex;
+}
+.c1 img{
+    height: 100px;
+    padding-left: 650px;
+}
+.c2 img{
+    height: 70px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.c3 img{
+    width: 100px;
+    position: fixed;
+    bottom: 50px;
+    right: 0px;
+    background:fixed;
+}
+.foot{
+    background-color: blueviolet;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
